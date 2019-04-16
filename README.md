@@ -17,7 +17,7 @@
 
 ## Docs
 
-*   [Begginers ](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
+*   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
 *   [https://github.com/walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
 *   [Concepts](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
 *   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
