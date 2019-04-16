@@ -29,7 +29,7 @@
 
 ## Labs
 
-*   [LSF258](https://training.linuxfoundation.org/training/kubernetes-fundamentals/ )
+*   [LSF258](https://pt.scribd.com/document/370776433/LFS258-Labs-V-2018-01-16)
 *   [https://www.katacoda.com/courses/kubernetes](https://www.katacoda.com/courses/kubernetes)
 *   [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)
 *   [https://instruqt.com/public](https://instruqt.com/public)
@@ -45,6 +45,9 @@
 
 
 ## Dicas da prova
+
+
+*   [Office Hours](https://www.youtube.com/watch?v=4XAlFEVKGOw&list=PL5cnXKhXmBeZlQSe6xBSchFCM2Mi3fYCa)
 
 *   [Ross Kukulinsk (12/2017)](https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557)
 *   [Jakub Nowakowski (03/2018)](https://medium.com/akena-blog/k8s-admin-exam-tips-22961241ba7d)
@@ -64,5 +67,4 @@
 *   [Krystian Nowaczyk (02/2019)](https://medium.com/@krystiannowaczyk/how-i-passed-the-cka-certified-kubernetes-administrator-exam-f94b11566528?sk=92c2ac9612adddbbb6545584b69b0d88)
 *   [Nilesh Jayanandana (02/2019)](https://medium.com/platformer-blog/how-i-passed-the-cka-certified-kubernetes-administrator-exam-8943aa24d71d)
 *   [Suraj (10/2018)](https://suraj.io/post/road-to-cka/)
-*   [Office Hours](https://www.youtube.com/watch?v=4XAlFEVKGOw&list=PL5cnXKhXmBeZlQSe6xBSchFCM2Mi3fYCa)
 
