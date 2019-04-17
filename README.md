@@ -18,14 +18,13 @@
 ## Docs
 
 *   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
-*   [https://github.com/walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
-*   [Concepts](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
+*   [walidshaari Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
 *   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
 *   [http://kubernetesbyexample.com/](http://kubernetesbyexample.com/)
 *   [TGI Series](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ)
 *   [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
-*   [Troubleshooting](https://www.youtube.com/watch?v=HlAXp0-M6SY)
-*   [https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
+*   [Kubernetes for Sysadmins](https://www.youtube.com/watch?v=HlAXp0-M6SY)
+*   [oreilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
 
 ## Labs
 
