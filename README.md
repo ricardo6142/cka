@@ -1,12 +1,14 @@
 # Detonado CKA
 
-
 ## Cursos
 
 *   [Udacity](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 *   [LSF258](https://training.linuxfoundation.org/training/kubernetes-fundamentals/ )
 *   [EDX](https://www.edx.org/course/introduction-to-kubernetes)
-
+*   [KodeKloud](https://kodekloud.com/)
+*   [linuxacademy.com kubernetes-the-hard-way](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
+*   [linuxacademy.com CKA (Só vale a pena fazer os labs)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
+*   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
 
 ## Livros
 
@@ -14,16 +16,18 @@
 *   [Kubernetes Up and Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=S7YEBEN3UGA1&keywords=kubernetes+up+and+running&qid=1555098786&s=books&sprefix=kubernetes+%2Cstripbooks-intl-ship%2C266&sr=1-1)
 *   [Kubernetes in Action](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=kubernetes+in+action&qid=1555098829&s=books&sr=1-1)
 
+## Videos
 
-## Docs
-
-*   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
-*   [walidshaari Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
-*   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
-*   [http://kubernetesbyexample.com/](http://kubernetesbyexample.com/)
 *   [TGI Series](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ)
 *   [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
 *   [Kubernetes for Sysadmins](https://www.youtube.com/watch?v=HlAXp0-M6SY)
+
+## Docs Sobre Conceitos
+
+*   [Kubernetes.io kubectl reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
+*   [walidshaari Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
+*   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
+*   [http://kubernetesbyexample.com/](http://kubernetesbyexample.com/)
 *   [oreilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
 
 ## Labs
@@ -33,15 +37,11 @@
 *   [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)
 *   [https://instruqt.com/public](https://instruqt.com/public)
 *   [https://kubernetes.io/docs/tasks/](https://kubernetes.io/docs/tasks/)
-*   [https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
-*   [https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
-
 
 ## Simulados
 
 *   [https://github.com/arush-sal/cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
 *   [https://github.com/dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
-
 
 ## Dicas da prova
 
