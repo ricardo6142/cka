@@ -42,6 +42,7 @@
 
 *   [https://github.com/arush-sal/cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
 *   [https://github.com/dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+*   [Kubernetes Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ## Dicas da prova
 
