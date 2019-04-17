@@ -26,7 +26,6 @@
 
 ## Labs
 
-*   [LFS258](https://pt.scribd.com/document/370776433/LFS258-Labs-V-2018-01-16)
 *   [https://www.katacoda.com/courses/kubernetes](https://www.katacoda.com/courses/kubernetes)
 *   [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)
 *   [https://instruqt.com/public](https://instruqt.com/public)
