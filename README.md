@@ -6,8 +6,8 @@
 *   [LSF258](https://training.linuxfoundation.org/training/kubernetes-fundamentals/ )
 *   [EDX](https://www.edx.org/course/introduction-to-kubernetes)
 *   [KodeKloud](https://kodekloud.com/)
-*   [linuxacademy.com kubernetes-the-hard-way](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
-*   [linuxacademy.com CKA (Just the labs)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
+*   [Linux Academy The Hard Way](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
+*   [Linux Academy CKA (Just the labs)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
 *   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
 
 ## Books
