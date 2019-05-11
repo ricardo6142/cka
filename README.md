@@ -22,7 +22,8 @@
 *   [Walidshaari Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
 *   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
 *   [http://kubernetesbyexample.com/](http://kubernetesbyexample.com/)
-*   [Oreilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
+*   [O'reilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
+*   [CKA Blog](https://cka-exam.blog/)
 
 ## Labs
 
