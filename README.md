@@ -21,9 +21,9 @@
 
 *   [Kubectl reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
 *   [Walidshaari Kubernetes Certified Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
-*   [kubernet.io](http://www.kubernet.io/index.html)
+*   [Kubernet.io](http://www.kubernet.io/index.html)
 *   [kubernetes By Example](http://kubernetesbyexample.com/)
-*   [O'Reilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
+*   [O'Reilly Troubleshooting Tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
 *   [CKA Blog](https://cka-exam.blog/)
 
 ## Labs
