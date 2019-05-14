@@ -2,6 +2,7 @@
 
 ## Courses
 
+*   [LinuxTips](https://www.linuxtips.io/)
 *   [Udacity](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 *   [LSF258](https://training.linuxfoundation.org/training/kubernetes-fundamentals/ )
 *   [EDX](https://www.edx.org/course/introduction-to-kubernetes)
@@ -37,9 +38,9 @@
 *   [https://github.com/arush-sal/cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
 *   [https://github.com/dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 *   [Kubernetes Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+*   [CKA Study Guide and Exercises](https://github.com/David-VTUK/CKA-StudyGuide)
 
 ## Tips
-
 
 *   [Office Hours](https://www.youtube.com/watch?v=4XAlFEVKGOw&list=PL5cnXKhXmBeZlQSe6xBSchFCM2Mi3fYCa)
 
