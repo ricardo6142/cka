@@ -19,11 +19,11 @@
 
 ## Docs And Concepts
 
-*   [Kubernetes.io kubectl reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
-*   [Walidshaari Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
-*   [http://www.kubernet.io/index.html](http://www.kubernet.io/index.html)
-*   [http://kubernetesbyexample.com/](http://kubernetesbyexample.com/)
-*   [O'reilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
+*   [Kubectl reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
+*   [Walidshaari Kubernetes Certified Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
+*   [kubernet.io](http://www.kubernet.io/index.html)
+*   [kubernetes By Example](http://kubernetesbyexample.com/)
+*   [O'Reilly troubleshooting tips](https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting)
 *   [CKA Blog](https://cka-exam.blog/)
 
 ## Labs
@@ -35,8 +35,8 @@
 
 ## Exam practice exercises
 
-*   [https://github.com/arush-sal/cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
-*   [https://github.com/dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+*   [Cka Practice Environment](https://github.com/arush-sal/cka-practice-environment)
+*   [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 *   [Kubernetes Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 *   [CKA Study Guide and Exercises](https://github.com/David-VTUK/CKA-StudyGuide)
 
