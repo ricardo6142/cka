@@ -1,11 +1,13 @@
 # CKA Walkthrough
 
-## Courses
-Intro
+## Intro Courses
+
 *   [EDX](https://www.edx.org/course/introduction-to-kubernetes)
 *   [Udacity](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 *   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
-Certification 
+
+## Cert Courses
+
 *   [LinuxTips](https://www.linuxtips.io/)
 *   [KodeKloud](https://kodekloud.com/)
 
