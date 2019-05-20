@@ -1,15 +1,13 @@
 # CKA Walkthrough
 
 ## Courses
-
-*   [LinuxTips](https://www.linuxtips.io/)
-*   [Udacity](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
-*   [LSF258](https://training.linuxfoundation.org/training/kubernetes-fundamentals/ )
+Intro
 *   [EDX](https://www.edx.org/course/introduction-to-kubernetes)
-*   [KodeKloud](https://kodekloud.com/)
-*   [Linux Academy The Hard Way](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
-*   [Linux Academy CKA (Just the labs)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
+*   [Udacity](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 *   [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
+Certification 
+*   [LinuxTips](https://www.linuxtips.io/)
+*   [KodeKloud](https://kodekloud.com/)
 
 ## Books
 
