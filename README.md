@@ -39,6 +39,7 @@
 *   [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 *   [Kubernetes Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 *   [CKA Study Guide and Exercises](https://github.com/David-VTUK/CKA-StudyGuide)
+*   [CKAD Practice Questions](https://dev.to/liptanbiswas/ckad-practice-questions-4mpn)
 
 ## Tips
 
